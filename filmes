@@ -1,0 +1,10 @@
+let filmes= ["carros2", "As branquelas", "jornadas nas estrelas","avatar","vingadores","jurassic woud", "star was"," o rei leao","lucy","O conte de monte Cristo" ]
+
+     for (indice=0; indice<=9 ;indice++) {
+  
+  
+            console.log(filmes[indice])
+  
+  
+  
+}
